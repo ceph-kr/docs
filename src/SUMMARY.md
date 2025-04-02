@@ -1,3 +1,3 @@
 # Summary
 
-- [Architecture](./architecture.md)
+- [Erasure Coding](./hcshin_Erasure_Coding.md)
